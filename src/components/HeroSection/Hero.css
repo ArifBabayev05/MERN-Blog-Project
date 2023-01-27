@@ -1,0 +1,20 @@
+*{
+margin:0;
+padding: 0;
+box-sizing: border-box;
+}
+img{
+    max-width: 100%;
+}
+.TextSection{
+    display:flex;
+    height:100%;
+    width: 100%;
+}
+.text{
+    align-items:center;
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    font-size: 70px;
+}
